@@ -26,7 +26,6 @@ I am Sadman from Bangladesh and I am a Software Engineer and coding instructor b
 ## Work Experience
 * Software Engineer (Samsung R&D - 2 years)
 * Software Engineer (Penta Global Ltd - Almost 1 year)
-* Online Instructor
 
 ## Leadership Skills
 * Co-founder (Shoshikkha.com - an online learning platform in Bengali)
