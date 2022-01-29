@@ -10,15 +10,10 @@ I am Sadman from Bangladesh and I am a Software Engineer and coding instructor b
 * In-memory storage (Redis).
 * SQL(Postgres), NoSQL(MongoDB).
 * Data Structures & Algorithms, Competitive Programming.
-* Micro-service architecture and Scalable System Design.
+* Micro-service architecture and distributed system.
   
 ## Currently doing
-- 🔭 Working on a highly scalable project in a team of 12-15 members consisting of 10+ microservices written on Java, NodeJS, and Python. 
-- 📈 Leading a team of 3 people with 3 microservices written on Java (Springboot), NodeJS. Other technologies used:
-    - Redis cache storage.
-    - Redis pub-sub model.
-    - Socket server.
-    - Postgres and ElasticSearch.
+- 🔭 Learning Go, Apache Kafka, NiFi, Airflow, and playing with docker containers.
 - 🌱 Learning scalable system design and linux kernel. 
 - 👨‍🏫 Teaching 100+ students about coding and problem solving.
 
