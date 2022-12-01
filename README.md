@@ -1,4 +1,4 @@
-## Md Sadman Sakib - Software Engineer(Backend)
+## Md Sadman Sakib - Software Engineer
 I am Sadman from Bangladesh and I am a Software Engineer and coding instructor by profession.
 
 ## Github Stats
@@ -7,8 +7,7 @@ I am Sadman from Bangladesh and I am a Software Engineer and coding instructor b
 
 ## Skills
 * Java Springboot, C/C++.
-* In-memory storage (Redis).
-* SQL(Postgres), NoSQL(MongoDB).
+* In-memory storage (Redis), SQL(Postgres), NoSQL(MongoDB).
 * Data Structures & Algorithms, Competitive Programming.
 * Micro-service architecture and distributed system.
   
@@ -19,11 +18,13 @@ I am Sadman from Bangladesh and I am a Software Engineer and coding instructor b
 
 
 ## Work Experience
-* Software Engineer (Samsung R&D - 2 years)
+* Software Engineer (Google)
 * Software Engineer (Penta Global Ltd - Almost 1 year)
+* Software Engineer (Samsung R&D - 2 years)
 
 ## Leadership Skills
+* Founder - TJIP - A platform for preparing candidates for technical job interviews.
 * Co-founder (Shoshikkha.com - an online learning platform in Bengali)
-* Manager (Synapse - A competitive programming blog of Bangladesh)
-* Competitive Programming Coach (University of Liberal Arts Bangladesh - Feb 2019 to Feb 2020)
 * Course Instructor at ![Devskill - online technical learning platform](https://training.devskill.com)
+* Competitive Programming Coach (University of Liberal Arts Bangladesh - Feb 2019 to Feb 2020)
+
