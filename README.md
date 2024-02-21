@@ -3,9 +3,9 @@
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sadman007)
 
 ## Current Work
-* Working in the opentitan project - The first open source project building a transparent, high-quality reference design and integration guidelines for silicon root of trust (RoT) chips.
-* Learning and working with Bazel, eBPF, HSM.
-* Learning to write better codes.
+* Working as a Software Engineer (II) in **ChromeOS HWsec team** (open source contributions can be found [here](https://chromium-review.googlesource.com/q/owner:+sadmansakib))
+* Working in the **opentitan** project - The first open source project building a transparent, high-quality reference design and integration guidelines for silicon root of trust (RoT) chips.
+* Learning and working with Bazel, eBPF, and TPM.
 
 ## Skills & Interests
 * C/C++, Go, Java
